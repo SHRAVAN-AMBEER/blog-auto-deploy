@@ -1,8 +1,3 @@
-+++
-date = '2025-08-27T13:06:23+05:30'
-draft = true
-title = 'Contact'
-+++
 ---
 title: "Contact"
 date: 2025-08-27
