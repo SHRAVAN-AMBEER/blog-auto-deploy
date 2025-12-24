@@ -4,3 +4,4 @@ update
 deploy test
 retry
 fix
+reload test
