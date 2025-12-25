@@ -17,3 +17,11 @@ weight = 2
 name = "Contact"
 url = "/contact/"
 weight = 3
+
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+term = ["HTML", "RSS"]
+page = ["HTML"]
+
