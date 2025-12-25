@@ -25,3 +25,6 @@ taxonomy = ["HTML", "RSS"]
 term = ["HTML", "RSS"]
 page = ["HTML"]
 
+[module]
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"

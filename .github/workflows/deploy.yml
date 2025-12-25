@@ -19,7 +19,9 @@ jobs:
           sudo apt-get install -y hugo
 
       - name: Build the blog
-        run: hugo --minify --theme ananke
+        run: |
+          hugo mod tidy
+          hugo --minify
 
       - name: Setup SSH
         uses: webfactory/ssh-agent@v0.5.3
