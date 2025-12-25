@@ -1,7 +1,6 @@
 baseURL = "http://13.62.70.6/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "ananke"
 
 [[menu.main]]
 name = "Home"
