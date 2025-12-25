@@ -28,3 +28,5 @@ page = ["HTML"]
 [module]
   [[module.imports]]
     path = "github.com/theNewDynamic/gohugo-theme-ananke"
+    version = "v2.12.0"
+
