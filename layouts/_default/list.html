@@ -1,11 +1,10 @@
 {{ define "main" }}
-<h2>Latest Posts</h2>
+<h1>{{ .Title }}</h1>
 
 <ul>
-  {{ range first 5 .Site.RegularPages }}
+  {{ range .Pages }}
     <li>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      <small>{{ .Date.Format "Jan 2, 2006" }}</small>
     </li>
   {{ end }}
 </ul>
