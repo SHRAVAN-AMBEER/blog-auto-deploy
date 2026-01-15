@@ -32,7 +32,7 @@ other = "En e-postadress krävs."
 other = "Skicka"
 
 [taxonomyPageList]
-other = "Nedan hittar du alla sidor som är taggade “{{ .Title }}”"
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
 
 [pageTitle]
 other = "{{ .Name }} sida"

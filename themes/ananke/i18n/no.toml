@@ -10,9 +10,6 @@ other = "Nyeste {{.Title }}"
 [readMore]
 other = "Les mer"
 
-[by]
-other = "Av"
-
 [whatsInThis]
 other = "Innhold av {{ .Type }}"
 
@@ -26,13 +23,13 @@ other = "Ditt navn"
 other = "E-postadresse"
 
 [message]
-other = "Beskjed"
+other = "beskjed"
 
 [emailRequiredNote]
 other = "E-postadresse er påkrevd"
 
 [send]
-other = "Send"
+other = "Sende"
 
 [taxonomyPageList]
 other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
