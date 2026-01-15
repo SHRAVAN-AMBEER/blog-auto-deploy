@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - hugo-stable-test
 
 jobs:
   deploy:
