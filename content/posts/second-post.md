@@ -6,9 +6,8 @@ draft = false
 
 This post is added to test the **CI/CD pipeline**.
 
-If you are reading this on the live website,  
-it means **GitHub Actions successfully built and deployed the site to AWS EC2** 🚀
-
+If you are reading this on the live website,
+it means **GitHub Actions successfully built and deployed the site to AWS EC2**
 ## What this proves
 - Hugo build works
 - CI/CD pipeline triggers
